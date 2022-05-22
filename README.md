@@ -56,4 +56,4 @@ The table shows no data when there is no match with the inout filters.
 + We can modify the scripts to display a message such as "No Results Found, please try another search" instead of displaying a blank table for the no-match results when the input filter does not match with any data in the database.
 + For the filter section, a dropdown list can also be added for each filter to guide users of the filter options, as well as two addtional buttons, one to "Apply Filter(s)", and another one to "Clear All Filter(s)".
 
-[^1]: `.gitignore` template for JavaScript is from [here](https://github.com/asama-w/UFOs/blob/main/Additional_images/filters_no_match.png)
+[^1]: `.gitignore` template for JavaScript is from [here](https://gist.github.com/andreasonny83/b24e38b7772a3ea362d8e8d238d5a7bc)

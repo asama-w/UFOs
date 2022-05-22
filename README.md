@@ -1,7 +1,7 @@
 # UFOs - Interactive Webpage
 ## Project Overview
 ### Purpose of the analysis
-This project aims to help Dana, a data journalist, showcase her UFO-sighting information by implementing JavaScript and HTML to create a webpage displaying the UFOs data as a table, wherein the data can be filtered by the user-input criteria such as date, city, state, country, and UFO's shape.
+This project aims to help Dana, a data journalist, showcase her UFO-sighting information by implementing JavaScript and HTML to create an interactive webpage displaying the UFOs data as a table, wherein the data can be filtered by the user-input criteria such as date, city, state, country, and UFO's shape.
 
 ### Resources[^1]
 + **Languages:** JavaScript, HTML, CSS

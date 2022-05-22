@@ -14,8 +14,10 @@ This project aims to help Dana, a data journalist, showcase her UFO-sighting inf
 
 ## Project Results
 ### How to filter the webpage
+#### 1. Webpage Overview
+The following image shows the outline of the webpage displaying all information in the table without any filter applied. 
 
-<img src= to-be-put-link width="50%" height="50%">
+<img src= https://github.com/asama-w/UFOs/blob/main/Additional_images/webpage_challenge_before_filter.png width="100%" height="100%">
 <img src= to-be-put-link width="50%" height="50%">
 <img src= to-be-put-link width="50%" height="50%">
 <img src= to-be-put-link width="50%" height="50%">

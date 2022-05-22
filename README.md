@@ -3,7 +3,7 @@
 ### Purpose of the analysis
 This project aims to help Dana, a data journalist, showcase her UFO-sighting information by implementing JavaScript and HTML to create a webpage displaying the UFOs data as a table, wherein the data can be filtered by the user-input criteria such as date, city, state, country, and UFO's shape.
 
-### Resources
+### Resources[^1]
 + **Languages:** JavaScript, HTML, CSS
 + **Editor Tool:** Visual Studio Code
 + **Data source:** [data.js](https://github.com/asama-w/UFOs/blob/main/static/js/data.js)
@@ -55,3 +55,5 @@ The table shows no data when there is no match with the inout filters.
 ### Recommendations for Further Development
 + We can modify the scripts to display a message such as "No Results Found, please try another search" instead of displaying a blank table for the no-match results when the input filter does not match with any data in the database.
 + For the filter section, a dropdown list can also be added for each filter to guide users of the filter options, as well as two addtional buttons, one to "Apply Filter(s)", and another one to "Clear All Filter(s)".
+
+[^1]: `.gitignore` template for JavaScript is from [here](https://github.com/asama-w/UFOs/blob/main/Additional_images/filters_no_match.png)

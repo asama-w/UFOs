@@ -1,0 +1,14 @@
+/*Apply light font color to the webpage*/
+body {
+
+    color: #f7f7f7;
+}
+
+/*Style jumbotron element*/
+.jumbotron {
+    background-image: url("../images/nasa.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+
